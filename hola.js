@@ -1,1 +1,1 @@
-console.log("hola mundo")
+console.log("hola Kiirshh te amo ok y lo grito al mundo")
